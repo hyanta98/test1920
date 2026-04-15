@@ -1,3 +1,5 @@
+;背景素材のプリロード
+
 [cm ]
 [bg storage="room.jpg"  time="1000"  ]
 [tb_show_message_window  ]
